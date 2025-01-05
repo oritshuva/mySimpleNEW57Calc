@@ -95,10 +95,11 @@
         android:id="@+id/tvResult"
         android:layout_width="145dp"
         android:layout_height="91dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="44dp"
         android:text=" "
+        android:textSize="32sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintHorizontal_bias="0.537"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnMult" />
 
